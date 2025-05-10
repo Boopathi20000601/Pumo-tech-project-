@@ -1,0 +1,147 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color:rgb(10, 10, 9);
+}
+
+
+.manibody {
+    background-color: white;
+    margin: 30px;
+    padding: 0px;
+    height: 100%;
+
+}
+header{
+    background-color: burlywood;
+}
+
+.ChocolateLux {
+    display: inline-block;
+    padding: 20px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.selectoption {
+    display: inline-block;
+    font-size: large;
+    align-content: space-between;
+    padding-left: 600px;
+    font-family: "Oleo Script", serif;
+}
+
+.oleo-script-bold {
+    font-family: "Oleo Script", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+    margin-left: 30px;
+}
+table{
+   
+    background-image: url("DqLw3M.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+button{
+    background-color:goldenrod;
+}
+button:hover{
+background-color: black;
+color: burlywood;
+}
+th{
+    opacity: 1.5;
+    
+    color:gold;
+    padding:10px;
+    
+    
+}
+tr,td{
+    
+    color:beige;
+    padding: 10px;
+    text-align: center;
+    
+    font-weight: bolder;
+
+}
+
+
+
+
+
+/* footer */
+
+.Footersection{
+    background-color:black;
+    margin-top:10px;
+}
+.Row1{
+   padding-top: 50px;
+   padding-left: 200px;
+}
+.youremail{
+   padding-left: 10px;
+   width: 700px;
+   height: 50px;
+}
+.arrowbox{
+   height: 55px;
+   width: 80px;
+  
+
+}
+.facebookicon{
+   height: 55px;
+   width: 80px;
+}
+.twittericon{
+   height: 55px;
+   width: 80px;
+
+}
+.inicon{
+   height: 55px;
+   width: 80px;
+
+}
+.row2{
+   color: gold;
+   display: flex;
+   margin: 40px;
+   margin-left: 200px;
+   padding-left: 60PX;
+}
+
+
+
+
+.Menucolum{
+   padding-left: 60PX;
+   
+}
+
+.Companycolum{
+   width: 200PX;
+   padding-left: 200PX;
+}
+.contactcolum{
+   padding-left: 200PX;
+
+}
+.chocolateluximg{
+   margin-left: 500px;
+   width: 400px;
+   height: 200px;
+}

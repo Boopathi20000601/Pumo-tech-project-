@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.P-G1{
+       
+    background-color: bisque;
+
+}
+.img1{
+    position: relative;
+    width: 800px;
+    height: 690px;
+    padding: 5px;
+    
+}
+a{
+    margin-left: 750px;
+}
+button{
+    background-color: bisque;
+    padding: 3px;
+    cursor:grab;
+
+}
+
+

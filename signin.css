@@ -1,0 +1,90 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+
+    background-image: url("/realistic-chocolate-background.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.homesub {
+
+    background-color: black;
+    opacity: 0.7;
+    width: 400px;
+    height:400px;
+    border: 3px solid gold;
+    border-radius: 10px;
+    box-shadow: 0px 100px 1000px 0px;
+    margin-top: 200px;
+    margin-left: 600px;
+}
+
+.loginpage {
+
+
+    color: goldenrod;
+}
+
+.C-L-L {
+    width: 150px;
+    height: 50px;
+    margin-left: 115px;
+}
+
+.Login {
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.L-P-text {
+    padding: 10px;
+    margin-left: 60px;
+}
+
+.Email{
+    margin-top: 30px;
+    margin-left: 100px;
+    padding: 3px 15px 3px 15px;
+
+}
+
+.password {
+    margin-top: 30px;
+    margin-left: 100px;
+    padding: 3px 15px 3px 15px;
+}
+
+.B-l {
+    padding: 3px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: goldenrod;
+    margin-top: 20px;
+    margin-left: 170px;
+    border-radius: 5px;
+}
+
+.F-P {
+    margin-top: 30px;
+    margin-left: 140px;
+}
+
+.N-U {
+    margin-top: 20px;
+    margin-left: 95px;
+}
+
+.S-U {
+    padding: 3px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: goldenrod;
+    margin-top: 20px;
+    margin-left: 160px;
+    border-radius: 10px;
+}

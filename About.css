@@ -1,0 +1,143 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.manibody {
+    background-color: white;
+    margin: 30px;
+    padding: 0px;
+    height: 100%;
+}
+body {
+    background-color:beige;
+}
+header{
+    background-color: blanchedalmond;
+}
+.ChocolateLux {
+    display: inline-block;
+    padding: 20px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.selectoption {
+    display: inline-block;
+    font-size: large;
+    align-content: space-between;
+    padding-left: 600px;
+    font-family: "Oleo Script", serif;
+}
+
+.oleo-script-bold {
+    font-family: "Oleo Script", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+a {
+    padding-left: 20px;
+    text-decoration: none;
+    color: brown;
+}
+
+/* about */
+.Aboutpage {
+    
+    text-align: center;
+    /* margin-top: 10px; */
+    background-color: rgb(243, 236, 227);
+    box-shadow: 20px;
+    color:rgb(165, 42, 42);
+    padding-top:10px;
+    
+   
+
+}
+
+.Aboutsub {
+    display: flex;
+    align-content: space-between;
+
+
+}
+
+.P-Text1 {
+    /* background-image:url(about-img.png); */
+    background-repeat: no-repeat;
+    font-size: 30px;
+    margin-top: 150px;
+    color: chocolate;
+
+
+}
+.video2 {
+    margin-top: 100px;
+}
+ 
+
+/* footer */
+
+.Footersection{
+    background-color: black;
+    margin-top:10px;
+}
+.Row1{
+   padding-top: 50px;
+   padding-left: 200px;
+}
+.youremail{
+   padding-left: 10px;
+   width: 700px;
+   height: 50px;
+}
+.arrowbox{
+   height: 55px;
+   width: 80px;
+  
+
+}
+.facebookicon{
+   height: 55px;
+   width: 80px;
+}
+.twittericon{
+   height: 55px;
+   width: 80px;
+
+}
+.inicon{
+   height: 55px;
+   width: 80px;
+
+}
+.row2{
+   color: gold;
+   display: flex;
+   margin: 40px;
+   margin-left: 200px;
+   padding-left: 60PX;
+}
+
+
+
+
+.Menucolum{
+   padding-left: 60PX;
+   
+}
+
+.Companycolum{
+   width: 200PX;
+   padding-left: 200PX;
+}
+.contactcolum{
+   padding-left: 200PX;
+
+}
+.chocolateluximg{
+   margin-left: 500px;
+   width: 400px;
+   height: 200px;
+}

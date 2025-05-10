@@ -1,0 +1,371 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color:beige;
+}
+
+
+.manibody {
+    background-color: white;
+    margin: 30px;
+    padding: 0px;
+    height: 100%;
+
+}
+header{
+    background-color: rgb(243, 236, 227);
+}
+
+.ChocolateLux {
+    display: inline-block;
+    padding: 20px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.selectoption {
+    display: inline-block;
+    font-size: large;
+    align-content: space-between;
+    padding-left: 600px;
+    font-family: "Oleo Script", serif;
+}
+
+.oleo-script-bold {
+    font-family: "Oleo Script", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+    margin-left: 30px;
+}
+
+.full_container {
+    background-image: url("slider-bg2.png");
+   display: flex;
+}
+
+
+.ChocolateimgHome {
+
+    
+    background-image: url("Slider-bg231.png");
+    height: 640px;
+    width: 1700px;
+    font-size: larger;
+    color: azure;
+}
+.TextYummy{
+    padding-top: 10px;
+    margin-left: 600px;
+}
+.page-one-text{
+    margin-top: 20px;
+    font-family: "Grechen Fuemen", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: xx-large;
+
+  
+}
+
+.Blowimg {
+    width: 250px;
+    padding-top: 50px;
+}
+
+
+.Chocolatebarimg {
+    display: inline-block;
+    margin-left: 20%;
+
+}
+
+.Aboutpage {
+    text-align: center;
+    margin-top: 60px;
+    background-color: rgb(243, 236, 227);
+    box-shadow: 20px;
+    color:rgb(165, 42, 42)
+   
+
+}
+
+.Aboutsub {
+    display: flex;
+    align-content: space-between;
+
+
+}
+
+.P-Text1 {
+    /* background-image:url(about-img.png); */
+    background-repeat: no-repeat;
+    font-size: 30px;
+    margin-top: 150px;
+    color: chocolate;
+
+
+}
+.video2 {
+    margin-top: 100px;
+}
+
+/* Chocolate section */
+
+.CPH-text{
+    margin-top: 60px;
+    margin-left: 580px;
+    color: rgb(244, 182, 103);
+    font-family: "Oleo Script", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.P-TextPG3{
+    margin-top: 20px;
+    margin-left: 250px;
+    font-size:40px;
+    font-family: "Luxurious Script", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: burlywood;
+
+}
+.table1{
+    display: flex;
+    padding-left: 70px;
+    margin-top:40px;
+    
+}
+th{
+    
+    margin-left: 40px;
+    border: 2px solid rgb(249, 218, 176);
+    border-width: 100px;
+    
+}
+tr{
+    text-align: center;
+    background-color: burlywood;
+    
+}
+ td:hover, th:hover{
+    background-color: brown;
+    color: blanchedalmond;
+}
+    
+    /* offerpage */
+    .offerpage{
+        margin-top: 100px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border: 2px solid black;
+        background-color: rgb(230, 186, 122);
+        
+        
+    }
+    /* .offerpage:hover{
+       background-image: url(heartichocolatemage.gif);
+       background-repeat: no-repeat;
+       margin-left: 200px;
+}
+       */
+
+    
+
+    .offerpagesub{margin-top: 100px;
+        
+        margin-left: 500px;
+        font-family: "Grechen Fuemen", serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: xx-large;
+      
+         
+    }
+     
+    .offerimg{
+        margin-left: 400px;
+    }
+    .offerbutton{
+        margin-left: 550px;
+        background-color: rgb(7, 6, 6);
+        color: bisque;
+        width: 100px;
+        height: 5dvh;
+    }
+    .offerbutton:hover{
+        background-color: blanchedalmond;
+        color: black;
+    }
+
+
+    /* Testimonial */
+
+    .Testimonialhome{
+        margin-top: 100px;
+        display: flex;
+        background-color: rgb(213, 197, 164);
+    
+    }
+    .chocolatecakke{
+        margin-left: 150px;
+    }
+    .Girlclient{
+        display: flex;
+        background-image: url(client-bg_edited.jpg);
+          background-repeat: no-repeat;
+          background-size: cover;
+    }
+   .girlpic{
+    width: 100px;
+    margin-top: 200px;
+    margin-right: 100px;
+   }
+
+    .griltext{
+          margin-left: 50px;
+          
+    }
+    .gero{
+        margin-top: 100px;
+        margin-left: 50px;
+        font-size: 60px;
+    }
+    .gero-cont{
+        margin-top: 60px;
+        font-size: 20px;
+    }
+
+
+    /* Contactsection */
+
+    .Contactsection{
+        margin-top: 100px;
+        background-image:url(slider-bg2.png);
+      
+       
+    }
+    .contactus{
+        margin-left: 100px;
+        font-size: xx-large;
+        margin-top: 50px;
+    }
+
+    .label-and-image{
+        display: flex;
+        margin-left: 100px;
+    }
+
+    .Contactname{
+        width: 400px;
+        height: 40px;
+        margin-top: 20PX;
+        margin: 10PX;
+        padding: 10px;
+    }
+.Contactphone{
+    width: 400px;
+    height: 40px;
+    margin: 10PX;
+    padding-left: 10px;
+
+}
+.contactEmail{
+    width: 400px;
+    height: 40px;
+    margin: 10PX;
+    padding-left: 10px;
+
+}
+.contactmessage{
+    width: 400px;
+    height: 100px;
+    margin: 10PX;
+    padding-left: 10px;
+
+}
+.Sendnow{
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+    .googlemap1{
+        margin-left: 20px;
+        width: 800px;
+        height: 400px;
+        margin-right: 30px;
+        padding-bottom: 10px;
+    }
+
+    /* Footersection */
+
+    .Footersection{
+         background-color: black;
+         margin-top:100px;
+    }
+    .Row1{
+        padding-top: 50px;
+        padding-left: 200px;
+    }
+    .youremail{
+        padding-left: 10px;
+        width: 700px;
+        height: 50px;
+    }
+    .arrowbox{
+        height: 55px;
+        width: 80px;
+       
+    
+    }
+    .facebookicon{
+        height: 55px;
+        width: 80px;
+    }
+    .twittericon{
+        height: 55px;
+        width: 80px;
+
+    }
+    .inicon{
+        height: 55px;
+        width: 80px;
+
+    }
+    .row2{
+        color: gold;
+        display: flex;
+        margin: 40px;
+        margin-left: 200px;
+        padding-left: 60PX;
+    }
+
+
+
+
+    .Menucolum{
+        padding-left: 60PX;
+        
+    }
+
+    .Companycolum{
+        width: 200PX;
+        padding-left: 200PX;
+    }
+    .contactcolum{
+        padding-left: 200PX;
+
+    }
+    .chocolateluximg{
+        margin-left: 500px;
+        width: 400px;
+        height: 200px;
+    }
